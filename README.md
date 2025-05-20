@@ -14,8 +14,10 @@
 
 #### Estatísticas do GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=cobalt)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=cobalt)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=cobalt)
 
 <!--
 **marianaangeli/marianaangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
