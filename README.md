@@ -2,6 +2,7 @@
 👩‍💻**Sobre mim**    
 🎓Estudante de Big Data e Inteligência Analítica na PUC  
 💻Recém formada em Análise de Dados pela SoulCode Academy  
+🤖Cursando dois Bootcamps: ML na Avanti e Engenharia de Dados na TRIGGO AI
 🎯Focada em aprender cada vez mais sobre o universo dos dados e IA   
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-angeli)
