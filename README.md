@@ -2,7 +2,7 @@
 👩‍💻**Sobre mim** 
 
 🎓Estudante de Big Data e Inteligência Analítica na PUC  
-🤖Cursando dois Bootcamps: ML na Avanti e Engenharia de Dados na TRIGGO AI
+🤖Cursando dois Bootcamps: ML na Avanti e Engenharia de Dados na TRIGGO AI   
 💻Recém formada em Análise de Dados pela SoulCode Academy  
 🎯Focada em aprender cada vez mais sobre o universo dos dados e IA   
   
