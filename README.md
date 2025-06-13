@@ -1,5 +1,6 @@
 ## Oiê! Eu sou a Mari 🤗 
-👩‍💻**Sobre mim**    
+👩‍💻**Sobre mim** 
+
 🎓Estudante de Big Data e Inteligência Analítica na PUC  
 💻Recém formada em Análise de Dados pela SoulCode Academy  
 🤖Cursando dois Bootcamps: ML na Avanti e Engenharia de Dados na TRIGGO AI
