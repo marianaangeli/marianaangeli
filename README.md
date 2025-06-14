@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=40E0D0&fontAlignY=41&fontAlign=50&rotate=-13&reversal=false" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=7FFFD4&fontAlignY=41&fontAlign=50&rotate=-13&reversal=false" />
+</div>
 
 ## Oiê! Eu sou a Mari 🤗 
 👩‍💻**Sobre mim**  
