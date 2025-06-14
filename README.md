@@ -21,25 +21,12 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=cobalt)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=noctis_minimus)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=noctis_minimus)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=noctis_minimus)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=chartreuse-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=chartreuse-dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=panda)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=panda)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=panda)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=vue)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=vue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=buefy)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=buefy)
+
 <!--
 **marianaangeli/marianaangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
