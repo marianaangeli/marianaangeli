@@ -15,32 +15,13 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=cobalt)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=cobalt)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=vue)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=vue)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=emerald)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=emerald)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=emerald)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=apprentice)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=apprentice)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=apprentice)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=vue-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=vue-dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=vue-dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=algolia)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=algolia)
 
 
 <!--
