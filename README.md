@@ -26,6 +26,22 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=vue)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=vue)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=emerald)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=emerald)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=emerald)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=apprentice)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=apprentice)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=apprentice)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=vue-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=vue-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=algolia)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=algolia)
+
 
 <!--
 **marianaangeli/marianaangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
