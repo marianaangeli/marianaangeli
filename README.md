@@ -21,6 +21,18 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=cobalt)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=calm)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=calm)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=gruvbox)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=ayu-mirage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=ayu-mirage)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=ayu-mirage)
+
 <!--
 **marianaangeli/marianaangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
