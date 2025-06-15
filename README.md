@@ -30,7 +30,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=dark&bg_color=0d1117,1a2332,2d4a5c&title_color=00d9ff&text_color=c9d1d9&icon_color=00ff88&border_color=30a3a3)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=dark&background=0d1117&border=30a3a3&stroke=30a3a3&ring=00ff88&fire=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=dark&background=0d1117&border=30a3a3&stroke=30a3a3&ring=00d9ff&fire=00ff88&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=dark&bg_color=0d1117,1a2332,2d4a5c&title_color=00d9ff&text_color=c9d1d9&border_color=30a3a3)
 
