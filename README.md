@@ -28,6 +28,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=dark&bg_color=0d1117,1a2332,2d4a5c&title_color=00d9ff&text_color=c9d1d9&border_color=30a3a3)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianaangeli&show_icons=true&theme=dark&bg_color=8B9A7A,A0A682,B5B48A&title_color=D2691E&text_color=4A5D3A&icon_color=CD853F&border_color=7A8471)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianaangeli&theme=dark&background=8B9A7A&border=7A8471&stroke=7A8471&ring=CD853F&fire=D2691E&currStreakNum=4A5D3A&sideNums=4A5D3A&currStreakLabel=D2691E&sideLabels=D2691E&dates=5D6B4F)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaangeli&layout=compact&theme=dark&bg_color=8B9A7A,A0A682,B5B48A&title_color=D2691E&text_color=4A5D3A&border_color=7A8471)
+
 <!--
 **marianaangeli/marianaangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
