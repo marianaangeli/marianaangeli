@@ -1,9 +1,9 @@
 ## Oiê! Eu sou a Mari 🤗 
 👩‍💻**Sobre mim**  
 🎓Estudante de Big Data e Inteligência Analítica na PUC  
-🤖Cursando dois Bootcamps: ML na Avanti e Engenharia de Dados na TRIGGO AI   
-💻Recém formada em Análise de Dados pela SoulCode Academy  
-🎯Focada em aprender cada vez mais sobre o universo dos dados e IA   
+💻Formada em Análise de Dados pela SoulCode Academy  
+🤖Cursando o Programa ONE da Oracle e o curso EBA Analista
+🎯Focada em aprender cada vez mais sobre o universo dos dados e IA, através de diversos cursos livres, bootcamps e livros relacionados ao assunto (inclusive, aceito indicações)   
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-angeli)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianaangeli.dados@gmail.com)
