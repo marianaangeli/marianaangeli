@@ -2,7 +2,7 @@
 👩‍💻**Sobre mim**  
 🎓Estudante de Big Data e Inteligência Analítica na PUC  
 💻Formada em Análise de Dados pela SoulCode Academy  
-🤖Cursando o Programa ONE da Oracle e o Programa Lighthouse da Indicium 
+🤖Cursando o Programa ONE da Oracle e o Programa Lighthouse da Indicium      
 🎯Focada em aprender cada vez mais sobre o universo dos dados e IA, através de diversos cursos livres, bootcamps e livros relacionados ao assunto (inclusive, aceito indicações)   
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-angeli)
